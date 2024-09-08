@@ -59,8 +59,6 @@ print("serving at port", PORT) httpd.serve\_forever() \`\`\`
 
 Save the changes to the application.py file and exit the text editor.
 
-## 
-
 ## 3\. Create a Dockerfile to Containerize the Application 
 
 In this step, you'll create a Dockerfile to build a Docker image for your Python application.
