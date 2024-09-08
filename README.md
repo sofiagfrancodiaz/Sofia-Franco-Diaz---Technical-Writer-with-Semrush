@@ -1,4 +1,3 @@
-# Sofia-Franco-Diaz---Technical-Writer-with-Semrush
 # Guide to Deploying a Python Application with Docker and Kubernetes 
 
 In this tutorial, you'll learn how to containerize a Python application using Docker and then prepare it for deployment in a Kubernetes cluster. We'll start from the basics, including setting up the necessary directory structure, creating the application, and writing a Dockerfile to package the application.
