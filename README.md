@@ -32,7 +32,7 @@ quickstart\_docker/ \# Catalog of all project
 └──docker/ \# Here some stuff for docker  
 └──application/ \# …here Dockerfile for application
 
-By creating this structured directory layout, you'll be able to better organize and manage the different components of your project as you continue to develop and expand it.2. Write a Simple Python Application 
+By creating this structured directory layout, you'll be able to better organize and manage the different components of your project as you continue to develop and expand it. 
 
 ## 2\. Write a Simple Python Application
 
